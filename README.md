@@ -133,9 +133,7 @@ This project was developed as part of the:
 
 > **C++ Programming Internship — CodeAlpha**
 > Intern: Hamza Asif
-> Roll No: 23-AI-93
-> Department: BS Artificial Intelligence
-> University: Dawood University of Engineering and Technology (DUET), Karachi
+
 
 ---
 
